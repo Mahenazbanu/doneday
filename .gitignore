@@ -1,0 +1,7 @@
+# Never commit real credentials or local environment files
+config/database.php
+.env
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
